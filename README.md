@@ -1,6 +1,52 @@
 
 
 
+# Quarancation - Hack the North 2021
+
+## Inspiration
+The COVID-19 pandemic has gone back and forth for 21 months. Canada is now in its 4th wave of the pandemic as cases spike. 
+It was proven that conscious self-isolation can significantly reduce the probability of infection, which means the 5th wave can be avoidable. However, according to observation, this is incredibly difficult for Canadians. 
+
+## What it does
+Quarancation is an application to assist in identification and detection. It determines whether people have consciously performed a qualifying self-isolation during the first 14 days of their entry into Canada. 
+Quarantines are now as interesting as a personalized Instagram with facial recognition that tags your digital identity in the profile. The app also provides alerts to help users keep track of their active check-ins during quarantines.
+
+
+## How we built it
+1. We started by brainstorming functions we want to integrate into the app. Meanwhile, we collected useful APIs, UI design software and existing framework for building the architecture. 
+2. Front-End: we used figma to design the interface, and we used react.js. 
+3. Back-End: we used Flask and connected it with Azure cognitive API that recognizes the face of a user. In addition to that, we added used authentication using google credentials.
+4. We used a Geolocation Python script as our tagging machine to verify if the user stayed in the same place as their registered quarantine location. 
+
+## Challenges we ran into
+1. The most challenging task we had was to practice what we only just learned.
+2. The most challenging task was to combine all the parts into one and make a complete web application. The connection of the API to the web application was the next hardest thing
+3. It is my second hackathon and my first time going for a submission, so I was exposed to a lot of new things and concepts especially for web-app.
+4. Given that I had very little experience with front-end web dev, I had to learn very quickly to at least try and put some workable user interface together. Definitely didn’t help that we started the front end at 2am.
+
+## Accomplishments that we're proud of
+1. For images uploaded by our app users, our Geolocation script can quickly fetch information of the GPS, shooting device, time and location. 
+2. We were able to formulate an idea and come up with a plan to execute it with different APIs and concepts.
+
+
+## What we learned
+1. The mysteries behind the blockchain, distinguishing and adopting the correct API.
+2. How the different cloud platforms provide various facial recognition API and I got to learn from Azure and Gcs.
+3. Learned the basics of hashing and encrypting Strings and files using python 
+4. The fundamentals of using React and HTML/CSS to develop out the front-end
+
+## What's next for Quarancation
+We hope to integrate the following features:
+
+1. Guaranteeing user data privacy through cryptographic technologies such as zero-knowledge proof and homomorphic encryption.
+2. Making face features as pass private key: Based on facial recognition technology and AI algorithm, it can accurately verify users' identity by face and protect account security.
+3. Completing data trustworthiness: Based on the blockchain's tamper-evident and traceability, the trustworthiness of user data is guaranteed.
+4. Aggregate data fragments among users' applications: After users' authorization, they can connect the data fragments scattered among different applications. 
+5. Even if COVID dies out, this app can be migrated into a children check-up app in the scenario that children are home alone and parents prompt them to send pictures 
+
+
+
+
 
 
 # Getting Started - Geolocation
