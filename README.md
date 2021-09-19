@@ -22,5 +22,5 @@ Meet the following requirements
 
 1. The program has two parameters -d and -p, we can specify the image directory or image file
 2. For example, execute the following command:
-python ImageLocation.py -d c:\\111
-python ImageLocation.py -p 123.jpg
+  python ImageLocation.py -d c:\\111
+  python ImageLocation.py -p 123.jpg
