@@ -7,8 +7,8 @@
 
 
 ## Video Demo & Project on DevPost
-https://youtu.be/k-TY50Qt7PA
-https://devpost.com/software/quarancation
+1. https://youtu.be/k-TY50Qt7PA
+2. https://devpost.com/software/quarancation
 
 ## Inspiration
 The COVID-19 pandemic has gone back and forth for 21 months. Canada is now in its 4th wave of the pandemic as cases spike. 
