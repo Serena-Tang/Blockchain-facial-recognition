@@ -1,4 +1,4 @@
-# Blockchain-facial-recognition
+# Blockchain-incorporating-facial-recognition
 Blockchain decentralizes intelligent profile based on facial recognition
 
 
