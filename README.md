@@ -3,7 +3,7 @@ Blockchain decentralizes intelligent profile based on facial recognition
 
 
 ## Getting Started - Geolocation
-For images uploaded by our app users, this script can quickly fetch information of the their GPS, shooting device, time and location
+For images uploaded by our app users, this script can quickly fetch information of the GPS, shooting device, time and location
 
 1. Clone the repository
 2. Install python3 (if you haven't already)
