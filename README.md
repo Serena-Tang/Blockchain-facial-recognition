@@ -3,6 +3,7 @@ Blockchain decentralizes intelligent profile based on facial recognition
 
 
 ## Getting Started - Geolocation
+For images uploaded by the users, this script can quickly fetch information of the their GPS, shooting device, time and location
 
 1. Clone the repository
 2. Install python3 (if you haven't already)
@@ -14,8 +15,8 @@ Blockchain decentralizes intelligent profile based on facial recognition
 ## Requirements
 Meet the following requirements
 
-1、Get the shooting information of specified pictures, such as local device, address, time, GPS, etc.
-2、To obtain the information of a large number of pictures by traversing the specified picture directory
+1. Get the shooting information of specified pictures, such as local device, address, time, GPS, etc.
+2. To obtain the information of a large number of pictures by traversing the specified picture directory
 
 ## Configurations
 
