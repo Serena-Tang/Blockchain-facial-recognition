@@ -2,6 +2,8 @@
 
 
 # Quarancation - Hack the North 2021
+![alt text](Gif Demo.gif)
+
 
 ## Video Demo
 https://youtu.be/k-TY50Qt7PA
