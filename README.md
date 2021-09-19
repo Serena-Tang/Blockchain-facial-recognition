@@ -3,6 +3,9 @@
 
 # Quarancation - Hack the North 2021
 
+## Video Demo
+https://youtu.be/k-TY50Qt7PA
+
 ## Inspiration
 The COVID-19 pandemic has gone back and forth for 21 months. Canada is now in its 4th wave of the pandemic as cases spike. 
 It was proven that conscious self-isolation can significantly reduce the probability of infection, which means the 5th wave can be avoidable. However, according to observation, this is incredibly difficult for Canadians. 
