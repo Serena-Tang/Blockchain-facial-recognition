@@ -2,7 +2,7 @@
 Blockchain decentralizes intelligent profile based on facial recognition
 
 
-## Getting Started
+## Getting Started - Geolocation
 
 1. Clone the repository
 2. Install python3 (if you haven't already)
