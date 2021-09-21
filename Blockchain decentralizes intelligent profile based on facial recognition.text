@@ -1,0 +1,95 @@
+Blockchain decentralizes intelligent profile based on facial recognition
+
+The vision is to create a trusted blockchain environment by creating decentralized, secure and encrypted identity passports for users which connect the digital and real worlds. It allows users to anchor their assets in various applications scattered on the blockchain and use various applications more conveniently and securely with privacy protection through face recognition AI verification; on the other hand, it also allows some services that require strong authentication, such as healthcare and education, to use blockchain more effectively to serve users.
+
+However, users in the digital world cannot correspond to themselves in the real world because of the features of blockchain which make it an anonymous and decentralized network, and because of the lack of user identity verification (KYC - Know YourCustomer) mechanism. This makes it difficult for many great services (such as healthcare and education) to be deployed as blockchain applications.
+
+Therefore, we propose an idea that creates an exclusive HTN Intelligent Pass (HTNIP) for users on the blockchain platform based on the facial recognition technology and AI algorithms that have been deployed for many years, enabling customers to use their face features as the pass key on the blockchain for decentralized user identity verification (KYC). In this way, other than linking all blockchains through every set of facial features, our product connects the data in the digital world with their real-world identities for users.
+
+Meanwhile, to further improve security, the HTN Intelligent Pass (HTNIP) will have three pass keys for three-dimensional verification, including face ID, customized password and social network relationships where the centerpiece is face ID.
+
+Moreover, through the authorization of HTNIP, the data fragments scattered among different applications will be connected in series, and a sound Smart Profile will be built for users. Smart Profile is a user data center based on face ID. It utilizes decentralization so that no party can access the user's original data except the user. It also ensures the security of Smart Profile through security isolation and authority grading by a Security Isolation System privacy encryption technologies such as zero-knowledge proof and differential privacy.
+
+With encryption technology guarantees that user data is not exposed, other organizations can use differential privacy technology to develop data mining, big data analysis, and AI algorithms to create better quality products to serve users without touching the original user data.
+
+Building from Smart Pass (HTNIP) and Smart Profile as the infrastructure, our blockchain platform will establish a blockchain ecosystem connecting users, applications, industries and services.
+
+In the future, the Smart Profile will add more dimensional data and gradually form a digital personal profile. With the continuous improvement of data, it will grow closer to its own characteristics in reality and form a digital twin. Combined with user behaviors and different usage scenarios, the digital twin will have greater applications and imagination space.
+
+(Check Conclusion first if you wanna skip the details of below)
+
+Decentralized smart profile solution
+HTN Intelligent Pass (HTNIP) and Security Isolation System establish a complete set of user intelligent profile system that allows blockchain to connect with the real world. Through this user intelligent profile system, customers manage accounts of blockchain applications in a hierarchical and permissioned manner, forming a unified pass. The security isolation system built by encryption means such as zero-knowledge proof and differential privacy allows blockchain accounts to be isolated from each other. All blockchain network accounts can be managed by HTNIP, but the exposure of public or private keys of one account cannot be associated with other accounts at all. This security isolation assures users have absolute freedom and security in the control of their accounts.
+
+HTNIP has a built-in decentralized, algorithm-driven KYC system. The security of HTNIP's KYC system is cross-verified by three dimensions(described above). On top of the three dimensions cross-validations, the system is also fed with the portrait images stored in users’ local devices. Based on the users' local encrypted database, the social relationships will be mapped through an encrypted P2P network to verify each other's identity in a way similar to zero-knowledge proof without exposing the image data, so that the digital identity corresponds to the real identity one by one, thus providing a real blockchain to connect with the real world interface. For example, when using blockchain for medicine pickup, the system verifies the identity of the user in a medical scenario.
+
+Based on the security isolation system, when each user creates an Intelligent Pass (HTNIP), an encrypted user intelligent profile is generated to securely store the user's data in the blockchain world. The public chain built by HTN Blockchain is a decentralized cloud computing solution, and there will be many blockchain applications running on HTN Blockchain in the future. In general, Smart Profile is a huge user database, and HTNIP is the key to open it. Based on the Smart Profile, our product builds a digital twin containing a model of the user's behavior and can potentially perform tasks in the digital world for the user.
+
+a. Security Isolation System
+The blockchain account system is honestly very weak, all the operations of users are verified by only one string of private keys, especially the spurt of blockchain applications, which will lead users to have many blockchain accounts. The fragmented blockchain accounts will increase the usage threshold and security risk.
+
+A unified blockchain pass system solves the problem, but meanwhile it also brings other problems. Once the unique blockchain pass exposes the private key, all the blockchain private keys stored in the pass are exposed together, which will have serious security risks.
+
+Now the question is, How to design a system that allows users to have unified management authority to unify all blockchain accounts? It should isolate the exposure risks so that one exposure of a private key cannot affect the security of other private keys. 
+
+1. Security Isolation
+The security isolation system uses cryptographic techniques such as zero-knowledge proof, differential privacy, and homomorphic encryption to securely isolate and manage permissions for each blockchain account in HTNIP. These techniques can prove the ownership relationship of accounts without reading users' private data.
+
+2. Permissions hierarchy management
+The security isolation system builds the hierarchical management of permissions. Moreover, since the respective permissions have been made securely isolated, they cannot affect each other. Even if one permission is broken, the security of other permissions still stays safe.
+
+In practical applications, users deploy the hierarchical management of permissions to allow different blockchain applications to access different data, instead of allowing a certain application to access all the data without the user's knowledge. For example, letting financial institutions access only digital asset data, and letting medical institutions access only physical health data.
+
+b. User Authentication KYC without Third Party
+In order for blockchain in the digital world to connect to real-world application scenarios, it is necessary to introduce user identity verification (KYC), i.e. to prove that "your blockchain account belongs to you".
+
+Currently, many blockchain applications that are deployed in the real world, such as social and financial applications, have adopted KYC by third-party organizations. The problem with this solution, however, is that it is centralized.
+
+There are security risks associated with a centralized institution to perform KYC: 
+1. The institution may leak users' KYC privacy, or tamper with and forge KYC.
+2. Different countries have different identities, and blockchain, as a global borderless network, may require third-party institutions in different countries to verify, increasing the risk of tampering with KYC even more.
+
+We propose a system uses an Al face recognition system that has been precipitated for many years, combined with blockchain's decentralized technology and strong social network verification, to achieve KYC self-verification without third-party verification.
+
+The technical principle of KYC self-verification is that our adopted Al face recognition system corresponds to the local cell phone portrait photo library. It confirms that the owner is in person for KYC verification. Subsequently, under the encrypted communication technology that does not read the user's picture data (zero-knowledge proof), the portrait is matched with other social relationships. In short, without reading the respective picture data, the Al face is proven to be you, verified by the social network relationship profile.
+
+Facial recognition and social networks are the most natural identity verification for human beings, while the ID card system is an identity verification system backed by law. KYC we proposed is a completely natural identity verification and can be matched with the ID card system when blockchain technology needs an interface corresponding to the real world.
+
+Therefore, the self-verifying KYC system allows users to verify their identity on their own cell phones without exposing data, preventing the risk of KYC tampering by centralized institutions, and is also the KYC system that is common worldwide. Completed self-verification KYC can simply correspond to government ID systems around the world.
+
+c. Smart File Solution
+In the era of centralized applications, all data generated by users when using applications are stored centrally on each application and platform. The ownership and usage rights of the data are not fully vested in the users. Such a design has several pain points:
+
+1. Data privacy: The privacy of user data will not be guaranteed. Once a large-scale leakage occurs, it will have catastrophic consequences;
+2. Data attribution: user data is not fully attributed to the user, but partly attributed to the application and platform, so the interests of users are not effectively protected;
+3. Data silo: user data cannot be connected among service providers, and the value of data cannot be maximized in user experience. HTNIP is proposed to solve the above pain points and better connect the real world with the digital world.
+
+The main technical features of HTNIP are as follows:
+
+1. Data is fully owned by the user. Any data is stored on the decentralized resource through encryption, so no organization or individual can access the original data except the user;
+
+2. The data can be opened to a limited extent with the user's consent. Once having the user's consent and authorization, the data is encrypted with differential privacy in cryptography, and the application can conduct research(i.e. big data) on a portion of the user's data, but it cannot parse personal information, nor can it view, copy or tamper with the data it touches;
+
+3. Third-party services built on top of the HTN blockchain can use HTNIP to link with users' intelligent profiles to provide smarter and better user experience and services, with users' consent and authorization.
+
+Based on blockchain technology, our project builds a HTNIP that belongs to users and can aggregate data fragments scattered on various applications in the blockchain. It combines with artificial intelligence technology to build a HTNIP that is exclusive to users and protects information security. These data include personal data center and data set, where personal data center includes users' data of various dimensions, such as facial feature data, relationship data, preference data, virtual image, etc.; these data set is a collection of certain types of data aggregation, which is a key data source for intelligent analysis.
+
+d. Conclusion
+(Contain repeated sentences, but a good summary )
+
+HTNIP is without question the core of HTN Blockchain that has the following features:
+
+1. guaranteeing user data privacy: the highest level of data security is achieved through cryptographic technologies such as zero-knowledge proof, homomorphic encryption and differential privacy.
+
+2. Data belongs to the user: the user has full ownership of the data, and third parties need to be authorized by the user to use the data. The data obtained by the user's authorization will also be well protected by privacy, and the data will not be leaked or copied during use through homomorphic encryption, secure multi-party computing and other technologies, thus ensuring that the data belongs solely to the user and protecting the interests of the user;
+
+3. Face features as pass private key: Based on a facial recognition technology and AI algorithm, it can accurately verify users' identity by face and protect account security;
+
+4. KYC without third party: solving the problem of user identity authentication (KYC) that hinders the implementation of blockchain applications. With the user's consent and authorization, the Smart Pass (HTNIP) is anchored to the real user identity, better connecting the digital world and the real world. Based on zero-knowledge proof technology, user identity verification will not affect user privacy under user authorization;
+
+5. Complete data trustworthiness: Based on the blockchain's tamper-evident and traceability, the trustworthiness of user data is guaranteed;
+
+6. Aggregate data fragments among users' applications: After users' authorization, they can connect the data fragments scattered among different applications. The use of Security Isolation Encryption Technology enables data fragments to circulate in a privacy-protected manner.
+
+Intelligent Pass (HTNIP) adds more dimensional data such as physiological and emotional data to gradually form a digital personal image, and as the data continues to improve, it gets closer and closer to its own characteristics in reality to build a digital twin. The digital twin is derived from the digital world and can perform many tasks of the digital world for the user in the digital world.
+
