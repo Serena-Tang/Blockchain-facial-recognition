@@ -24,6 +24,7 @@ Quarantines are now as interesting as a personalized Instagram with facial recog
 2. Front-End: we used figma to design the interface, and we used react.js. 
 3. Back-End: we used Flask and connected it with Azure cognitive API that recognizes the face of a user. In addition to that, we added used authentication using google credentials.
 4. We used a Geolocation Python script as our tagging machine to verify if the user stayed in the same place as their registered quarantine location. 
+5. We hashed a BlockChain pseudocode into Java. It was made to decentralizes intelligent user profile. 
 
 ## Challenges we ran into
 1. The most challenging task we had was to practice what we only just learned.
